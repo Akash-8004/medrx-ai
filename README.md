@@ -32,8 +32,8 @@ Two-step LangChain + Groq pipeline:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone [https://github.com/Akash-8004/medrx-ai](https://github.com/Akash-8004/medrx-ai).git
+cd medrx-ai
 ```
 
 ### 2. Install dependencies
@@ -60,18 +60,9 @@ streamlit run app.py
 
 ---
 
-## ☁️ Deploy on Streamlit Cloud
+## ☁️ Deployed on Streamlit Cloud [Live](https://medrx-ai-6yaoglfb4fvxz4lzs9wcg4.streamlit.app/)
 
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io) → **New app**
-3. Select your repo, branch, and set **Main file** to `app.py`
-4. Under **Advanced settings → Secrets**, add:
 
-```toml
-GROQ_API_KEY = "your-groq-api-key-here"
-```
-
-5. Click **Deploy** — done!
 
 ---
 
