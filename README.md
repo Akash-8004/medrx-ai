@@ -32,7 +32,7 @@ Two-step LangChain + Groq pipeline:
 ### 1. Clone the repo
 
 ```bash
-git clone [https://github.com/Akash-8004/medrx-ai](https://github.com/Akash-8004/medrx-ai).git
+git clone https://github.com/Akash-8004/medrx-ai.git
 cd medrx-ai
 ```
 
@@ -60,7 +60,7 @@ streamlit run app.py
 
 ---
 
-## ☁️ Deployed on Streamlit Cloud [Live](https://medrx-ai-6yaoglfb4fvxz4lzs9wcg4.streamlit.app/)
+## ☁️ Deployed on Streamlit Cloud : [Live Link](https://medrx-ai-6yaoglfb4fvxz4lzs9wcg4.streamlit.app/)
 
 
 
